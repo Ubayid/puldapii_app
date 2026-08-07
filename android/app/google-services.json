@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808181323938",
+    "project_id": "puldapii-app",
+    "storage_bucket": "puldapii-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808181323938:android:cb0d39d5e71834616a5ffb",
+        "android_client_info": {
+          "package_name": "id.or.puldapii.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvkeGo8pw0BLNQOgGZTCBqkTeM2Z7mAjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
